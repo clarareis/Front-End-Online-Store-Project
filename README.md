@@ -35,3 +35,14 @@ Quem contribuiu para este projeto:
 [Maria Clara Reis](https://github.com/clarareis),
 [Matheus Bora](https://github.com/matheusmcb) e
 [Patricia Correia](https://github.com/patricia-correia).
+
+<details>
+  <summary><strong>:memo: Instruções para rodar essa aplicação</strong></summary><br />
+
+Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
+
+Após feito o fork, clone o repositório criado para o seu computador.
+
+Rode o `npm install`.
+
+</details>
